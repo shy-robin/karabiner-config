@@ -60,7 +60,7 @@
                 "to": [
                   {
                     "key_code": "spacebar",
-                    "modifiers": "left_control"
+                    "modifiers": ["left_control", "option"]
                   }
                 ]
               },
