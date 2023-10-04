@@ -18,7 +18,7 @@
         },
         "rules": [
           {
-            "description": "spacebar + h j k l to arrow keys; spacebar + u to delete; spacebar + i to enter",
+            "description": "spacebar + h j k l to arrow keys; spacebar + u to delete; spacebar + o to enter",
             "manipulators": [
               {
                 "conditions": [
@@ -113,7 +113,7 @@
                   }
                 ],
                 "from": {
-                  "key_code": "i",
+                  "key_code": "o",
                   "modifiers": {
                     "optional": ["any"]
                   }
