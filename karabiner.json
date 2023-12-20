@@ -183,6 +183,26 @@
             ]
           },
           {
+            "description": "right control => space",
+            "manipulators": [
+              {
+                "type": "basic",
+                "from": {
+                  "key_code": "right_control",
+                  "modifiers": {
+                    "optional": ["any"]
+                  }
+                },
+                "to": [
+                  {
+                    "key_code": "spacebar",
+                    "lazy": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "description": "CapsLock: single tap => escape, held down => control",
             "manipulators": [
               {
