@@ -1,5 +1,9 @@
 # 配置
 
+## 安装
+
+`git clone https://github.com/shy-robin/karabiner-config.git ~/.config/karabiner`
+
 ## 规则集
 
 ### SpaceFN
